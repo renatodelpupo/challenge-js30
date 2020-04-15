@@ -11,4 +11,5 @@ Grab the course at https://JavaScript30.com
 * [01 - Drum Kit](https://renatodelpupo.github.io/challenge-js30/01-javascript-drum-kit/)
 * [02 - Clock](https://renatodelpupo.github.io/challenge-js30/02-js-and-css-clock/)
 * [03 - CSS Variables](https://renatodelpupo.github.io/challenge-js30/03-css-variables/)
+* [04 - Array Cardio Day 1](https://renatodelpupo.github.io/challenge-js30/04-array-cardio-day-1/)
 * [05 - Flex Panel Gallery](https://renatodelpupo.github.io/challenge-js30/05-flex-panel-gallery/)
